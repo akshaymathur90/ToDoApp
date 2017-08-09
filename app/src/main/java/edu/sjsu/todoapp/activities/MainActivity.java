@@ -1,7 +1,9 @@
-package edu.sjsu.todoapp;
+package edu.sjsu.todoapp.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import edu.sjsu.todoapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
